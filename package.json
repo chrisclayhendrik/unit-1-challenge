@@ -1,0 +1,24 @@
+{
+  "name": "unit-1-challenge",
+  "version": "1.0.0",
+  "description": "Electric Scooter Hire App",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisclayhendrik/unit-1-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisclayhendrik/unit-1-challenge/issues"
+  },
+  "homepage": "https://github.com/chrisclayhendrik/unit-1-challenge#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
